@@ -1,5 +1,6 @@
 #!/bin/bash
 # if elif statememt
+# This is a arithmetic operation script
 
 read -p "Enter a number :" num1
 read -p "Enter a smaller number :" num2
